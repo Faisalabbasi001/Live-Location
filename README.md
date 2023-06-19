@@ -2,7 +2,7 @@
 Allhamdulliah For Everything :) Live Location tool
 
 
-https://github.com/Faisalabbasi001/Live-Location
+git clone https://github.com/Faisalabbasi001/Live-Location
 
 
 cd $HOME
